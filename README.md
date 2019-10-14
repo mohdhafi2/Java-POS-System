@@ -1,5 +1,5 @@
 # Java-POS-System
 
-Created on Java Eclipse
+1. Created on Java Eclipse
 
-See POS-Completed for the complete image of the project
+2. See POS-Complete for the complete image of the project
